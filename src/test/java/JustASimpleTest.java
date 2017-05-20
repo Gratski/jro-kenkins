@@ -6,7 +6,7 @@ public class JustASimpleTest {
 
 	@Test
 	public void firstSimpleJenkinsTest(){
-		Assert.assertTrue(true);
+		Assert.assertTrue(false);
 	}
 	
 }
